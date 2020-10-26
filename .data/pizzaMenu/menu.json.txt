@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Chicken Supreme",
+      "Description": "Grilled chicken, tomatoes, red onions, & mixed peppers.",
+      "category": 0,
+      "price": [{ "small": 500, "medium": 700, "large": 950 }]
+    },
+    {
+      "id": 2,
+      "name": "BBQ Steak",
+      "Description": "Beef steak, red onions, sweet corn & BBQ sauce.",
+      "category": 0,
+      "price": [{ "small": 500, "medium": 700, "large": 950 }]
+    },
+    {
+      "id": 3,
+      "name": "Swahili Chicken",
+      "Description": "Chicken, coconut, pinapples, sweet corn & red chilli.",
+      "category": 1,
+      "price": [{ "small": 600, "medium": 800, "large": 1050 }]
+    },
+    {
+      "id": 4,
+      "name": "Veggie Deluxe",
+      "Description": "Red onions, mixed peppers, mushrooms, black olives & fresh tomatoes.",
+      "category": 1,
+      "price": [{ "small": 600, "medium": 800, "large": 1050 }]
+    },
+    {
+      "id": 5,
+      "name": "Extravaganza",
+      "Description": "Beef pepperoni, beef ham, beef Italian sausage, beef topping, red onions, mixed peppers, mushrooms & black olives.",
+      "category": 2,
+      "price": [{ "small": 700, "medium": 900, "large": 1250 }]
+    },
+    {
+      "id": 6,
+      "name": "Metzza",
+      "Description": "Beef pepperoni, beef ham, beef topping & beef Italian sausage.",
+      "category": 2,
+      "price": [{ "small": 700, "medium": 900, "large": 1250 }]
+    }
+  ],
+  "categories": ["Classic Pizza", "Favourite Pizza", "Ultimate Pizza"]
+}

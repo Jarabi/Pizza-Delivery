@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "Chicken Supreme",
+      "description": "Grilled chicken, tomatoes, red onions, & mixed peppers.",
+      "price": 500
+    },
+    {
+      "name": "BBQ Steak",
+      "description": "Beef steak, red onions, sweet corn & BBQ sauce.",
+      "price": 700
+    },
+    {
+      "name": "Swahili Chicken",
+      "description": "Chicken, coconut, pinapples, sweet corn & red chilli.",
+      "price": 800
+    },
+    {
+      "name": "Veggie Deluxe",
+      "description": "Red onions, mixed peppers, mushrooms, black olives & fresh tomatoes.",
+      "price": 1050
+    },
+    {
+      "name": "Extravaganza",
+      "description": "Beef pepperoni, beef ham, beef Italian sausage, beef topping, red onions, mixed peppers, mushrooms & black olives.",
+      "price": 1250
+    },
+    {
+      "name": "Metzza",
+      "description": "Beef pepperoni, beef ham, beef topping & beef Italian sausage.",
+      "price": 1250
+    }
+  ]
+}
